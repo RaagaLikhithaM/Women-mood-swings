@@ -8,7 +8,7 @@ The project focuses on analyzing various personal, environmental, and lifestyle 
 
 The dataset includes 5000 entries, each representing a unique participant. Key variables include:
 
-_Demographics: _Age, relationship role (wife/girlfriend), and relationship duration.
+_Demographics:_ Age, relationship role (wife/girlfriend), and relationship duration.
 
 _Mood Indicators:_ Mood level (1-10), menstrual phase, PMS symptoms.
 
